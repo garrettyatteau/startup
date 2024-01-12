@@ -1,1 +1,1 @@
-Notes: https://github.com/garrettyatteau/startup/blob/main/notes.md
+[Link to Notes](https://github.com/garrettyatteau/startup/blob/main/notes.md)
