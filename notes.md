@@ -6,3 +6,9 @@
 + How to use markdown including headings, paragraphs, references, images and lists.
 
 I am excited to learn much more in this class!
+
+1/17/2024 - Today, after working on my startup specification, I have started to learn several things including:
++ How websites are built using HTML, CSS and Javascript.
++ How websites run using web services and WebSocket.
++ How to create a sketch of a website using NinjaMock.com.
++ More features on github like adding images to a repository and linking those images within a different file.
