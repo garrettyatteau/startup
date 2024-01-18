@@ -24,4 +24,4 @@ Tier lists are commonly used to compare different items witihin the same genre. 
 + WebSocket: When a user submits a tier list, the ranking of each food item will be added to the community list database, in turn updating the community ranking for that specific item.
 ## Sketch
 
-![Sketch of my startup website using NinjaMock.](/startup_image.png)
+![Sketch of my startup website using NinjaMock.com](/startup_image.png)
