@@ -4,7 +4,7 @@
 
 ## Elevator Pitch
 
-Tier lists are commonly used to compare different items witihin the same genre. These can range from ranking video games to ranking cereal. On this website you will have the chance to rank a list of various fast food restaurants within a tier list. After logging in and creating your tier list, the data from your tier list will be sent towards a community ranking, where the average ranking of each fast food restaurant on each users tier list will be compiled into one tier list.
+Tier lists are commonly used to compare different items witihin the same genre. These can range from ranking TV shows to vacation spots. On this website you will have the chance to rank a list of various different foods within a tier list. After logging in and creating your tier list, the data from your tier list will be sent towards a community ranking, where the average ranking of each food item on each users tier list will be compiled into one tier list.
 
 ## Key Features
 
@@ -12,7 +12,7 @@ Tier lists are commonly used to compare different items witihin the same genre. 
 + After logging in, the tier list creator web page will be accessed, where the user can then begin ranking items into tiers.
 + The user can rename tiers, add and subtract tiers and place as many different items into each tier as they desire.
 + The user will be able to submit their tier list and make changes later if they change their mind.
-+ The user will be able to view the community ranking of each fast food restaurant on a separate linked web page.
++ The user will be able to view the community ranking of each food item on a separate linked web page.
 
 ## Technologies Represented
 + HTML: At least three webpages will be structured using HTML: one for login, one for creating a tier list and one for viewing the community ranking.
@@ -21,6 +21,6 @@ Tier lists are commonly used to compare different items witihin the same genre. 
 + Web server: Runs the website and accesses database.
 + Authentication: A username and password will be requested, then stored in the database after it is input.
 + Storing data: A database will store login information for each user, as well as each tier list and item value to be displayed in the community tier list.
-+ WebSocket: When a user submits a tier list, the ranking of each fast food restaurant will be added to the community list database, in turn updating the community ranking for that specific item.
++ WebSocket: When a user submits a tier list, the ranking of each food item will be added to the community list database, in turn updating the community ranking for that specific item.
 ## Sketch
 
