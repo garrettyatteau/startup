@@ -21,7 +21,7 @@ Tier lists are commonly used to compare different items witihin the same genre. 
 + Javascript: Allows user to login, drag items into the tier list, edit the tier list, and submit the tier list.
 + Web server: Runs the website and accesses database.
 + Authentication: A username and password will be requested, then stored in the database after it is input.
-+ Storing data: A database will store login information for each user, as well as each tier list and item value to be displayed in the community tier list.
++ Storing data: A database will store login information for each user, each user's tier list and compiled data for a community ranking.
 + WebSocket: When a user submits a tier list, the ranking of each food item will be added to the community list database, in turn updating the community ranking for that specific item.
 
 ## Sketch
